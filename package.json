@@ -8,7 +8,13 @@
     "express": "^4.15.3",
     "parse-server": "^2.5.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.3.0",
+    "eslint-config-google": "^0.9.1",
+    "eslint-config-react": "^1.1.7",
+    "eslint-plugin-react": "^7.1.0"
+  },
   "scripts": {
     "start": "pm2 start eco.json",
     "test": "echo \"Error: no test specified\" && exit 1"

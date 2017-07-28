@@ -1,0 +1,25 @@
+{
+  "extends": "google",
+  "rules": {
+        "guard-for-in": "off",
+        "sort-imports": "off",
+        "no-unused-vars": "warn",
+        "no-restricted-imports": "warn",
+        "space-before-function-paren": [
+            "error",
+            "never"
+        ],
+        "operator-linebreak": [
+            "error",
+            "before"
+        ],
+        "indent": 0
+    },
+    "env": {
+        "browser": true,
+        "es6": true,
+        "node": true,
+        "jquery": true
+    }
+
+}

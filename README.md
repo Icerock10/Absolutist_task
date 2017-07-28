@@ -1,2 +1,2 @@
 # Absolutist_task
-Data base is based locally.
+Database is based locally.

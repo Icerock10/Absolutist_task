@@ -6,12 +6,10 @@ body {
   background: lightgray;
 
 }
-
-.flex__container {
+.container {
   display: block;
   text-align: center;
 }
-
 button {
   margin: 40px;
   width: 10%;
