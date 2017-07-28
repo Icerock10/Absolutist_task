@@ -1,0 +1,10 @@
+{
+  "apps" : [{
+    "name"        : "absolutist api",
+    "script"      : "./index.js",
+    "watch"       : true,
+    "env": {
+      "NODE_ENV": "development"
+    }
+  }]
+}

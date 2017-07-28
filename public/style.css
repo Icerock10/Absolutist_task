@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: lightgray;
+
+}
+
+.flex__container {
+  display: block;
+  text-align: center;
+}
+
+button {
+  margin: 40px;
+  width: 10%;
+  height: 50px;
+  background: green;
+  font-size: 25px;
+  color: #fff;
+  border: 0;
+  border-radius: 5px;
+}

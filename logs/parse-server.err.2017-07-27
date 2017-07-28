@@ -1,0 +1,708 @@
+{"error":{"code":200,"message":"bad or missing username"},"level":"error","message":"Error generating response. ParseError { code: 200, message: 'bad or missing username' }","timestamp":"2017-07-27T12:31:03.884Z"}
+{"code":200,"message":"bad or missing username","level":"error","timestamp":"2017-07-27T12:31:03.890Z"}
+{"error":{"code":200,"message":"bad or missing username"},"level":"error","message":"Error generating response. ParseError { code: 200, message: 'bad or missing username' }","timestamp":"2017-07-27T12:31:07.859Z"}
+{"code":200,"message":"bad or missing username","level":"error","timestamp":"2017-07-27T12:31:07.861Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:21.150Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:21.153Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:21.158Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:21.159Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:21.159Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:21.160Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:21.160Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:21.161Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:21.161Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:21.162Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:21.162Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:21.163Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:21.170Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:21.171Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:21.173Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:21.174Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:21.175Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:21.175Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:21.177Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:21.178Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:21.183Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:21.184Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:21.185Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:21.186Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:21.188Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:21.189Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:22.831Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:22.832Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:22.834Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:22.834Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:22.835Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:22.836Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:22.836Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:22.837Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:22.838Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:22.838Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:22.839Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:22.839Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:22.841Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:22.841Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:22.845Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:22.845Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:22.849Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:22.850Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:22.858Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:22.859Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:22.859Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:22.860Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:22.866Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:22.866Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:22.867Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:22.868Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.611Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.613Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.617Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.618Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.622Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.624Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.625Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.626Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.627Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.632Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.633Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.633Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.635Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.636Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.642Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.644Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.645Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.646Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.647Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.649Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.650Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.652Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.653Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.654Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.655Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.656Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.764Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.764Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.767Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.768Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.768Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.769Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.769Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.770Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.770Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.772Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.773Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.773Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.775Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.776Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.786Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.786Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.790Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.793Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.794Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.796Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.797Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.800Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.801Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.801Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.803Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.803Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.905Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.906Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.914Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.914Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.916Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.918Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.918Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.920Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.921Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.922Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.923Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.924Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.924Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.925Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.928Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.928Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.936Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.936Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.939Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.940Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.941Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.941Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.944Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.944Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:23.945Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:23.946Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.053Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.054Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.057Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.058Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.058Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.058Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.059Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.059Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.060Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.068Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.069Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.069Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.070Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.070Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.072Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.072Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.075Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.076Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.077Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.078Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.079Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.080Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.080Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.081Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.081Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.089Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.201Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.201Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.204Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.204Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.205Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.206Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.206Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.207Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.207Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.208Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.211Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.212Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.215Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.215Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.216Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.216Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.217Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.219Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.220Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.220Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.221Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.222Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.223Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.224Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.224Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.224Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.349Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.350Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.352Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.352Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.353Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.353Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.354Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.354Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.355Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.355Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.355Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.356Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.357Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.358Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.360Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.361Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.368Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.368Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.369Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.369Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.370Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.370Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.371Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.371Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:24.373Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:24.374Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.094Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.096Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.097Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.098Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.099Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.099Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.100Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.100Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.102Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.102Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.103Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.103Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.109Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.110Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.111Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.111Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.116Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.116Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.125Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.126Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.126Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.127Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.127Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.128Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.130Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.130Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.285Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.285Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.287Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.288Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.288Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.289Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.290Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.290Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.291Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.291Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.292Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.292Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.293Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.294Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.294Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.294Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.304Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.304Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.307Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.307Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.308Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.309Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.310Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.311Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.312Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.313Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.460Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.461Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.467Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.467Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.469Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.470Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.470Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.470Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.471Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.471Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.472Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.472Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.473Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.473Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.475Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.476Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.481Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.481Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.484Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.484Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.485Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.485Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.486Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.486Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.487Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.487Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.615Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.615Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.616Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.617Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.617Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.619Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.624Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.624Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.627Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.628Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.629Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.630Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.630Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.631Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.631Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.631Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.636Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.636Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.638Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.638Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.640Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.642Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.644Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.644Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.647Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.648Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.760Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.761Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.764Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.764Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.766Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.766Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.767Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.767Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.770Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.770Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.772Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.773Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.774Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.774Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.776Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.777Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.783Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.784Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.786Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.786Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.787Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.791Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.793Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.793Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.794Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.795Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.926Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.927Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.930Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.931Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.931Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.932Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.932Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.933Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.933Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.933Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.934Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.934Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.936Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.936Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.940Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.940Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.946Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.946Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.952Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.954Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.955Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.955Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.958Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.959Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:26.962Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:26.962Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.053Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.054Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.057Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.059Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.059Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.061Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.062Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.062Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.062Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.063Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.063Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.064Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.065Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.065Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.071Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.072Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.074Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.074Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.075Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.075Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.075Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.077Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.077Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.078Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.078Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.079Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.192Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.192Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.195Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.195Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.198Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.198Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.198Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.199Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.201Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.201Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.201Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.202Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.203Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.203Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.204Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.205Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.211Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.211Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.213Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.213Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.214Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.214Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.215Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.215Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.216Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.218Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.336Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.337Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.339Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.339Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.340Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.340Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.340Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.341Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.342Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.342Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.343Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.343Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.344Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.345Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.348Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.348Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.358Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.359Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.360Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.361Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.361Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.362Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.363Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.364Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.364Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.365Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.505Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.505Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.506Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.507Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.515Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.515Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.518Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.519Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.520Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.520Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.521Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.521Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.524Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.524Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.525Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.525Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.532Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.532Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.535Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.535Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.536Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.537Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.538Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.539Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.540Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.541Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.615Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.618Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.624Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.625Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.626Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.627Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.627Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.628Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.628Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.629Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.631Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.631Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.632Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.632Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.635Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.635Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.640Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.641Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.644Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.645Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.646Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.646Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.647Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.648Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.649Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.650Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.771Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.772Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.774Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.774Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.776Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.776Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.778Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.778Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.780Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.781Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.783Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.783Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.785Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.786Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.786Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.786Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.792Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.792Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.794Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.794Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.795Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.795Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.796Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.796Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.797Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.798Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.909Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.910Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.912Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.913Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.913Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.914Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.914Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.914Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.915Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.915Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.915Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.916Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.917Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.917Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.921Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.924Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.926Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.927Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.928Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.929Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.929Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.929Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.930Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.930Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:27.931Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:27.931Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.049Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.049Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.054Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.054Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.056Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.057Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.059Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.059Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.060Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.061Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.061Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.062Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.062Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.063Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.063Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.063Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.072Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.072Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.073Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.074Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.076Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.076Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.077Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.077Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.078Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.078Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.200Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.201Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.203Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.203Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.205Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.206Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.207Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.207Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.208Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.208Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.209Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.209Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.210Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.210Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.211Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.213Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.220Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.220Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.221Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.222Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.224Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.225Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.226Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.227Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.229Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.230Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.347Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.347Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.349Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.350Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.350Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.350Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.351Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.351Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.352Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.352Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.352Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.353Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.354Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.355Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.358Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.359Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.365Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.365Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.368Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.368Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.369Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.369Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.370Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.372Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.378Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.378Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.481Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.481Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.485Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.486Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.493Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.498Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.500Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.507Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.511Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.511Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.512Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.512Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.512Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.513Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.513Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.514Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.515Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.516Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.517Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.517Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.522Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.523Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.523Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.523Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.524Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.524Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.634Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.634Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.637Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.638Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.640Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.641Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.643Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.643Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.645Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.646Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.650Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.651Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.651Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.652Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.655Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.655Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.657Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.658Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.660Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.661Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.661Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.661Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.662Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.665Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.665Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.666Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.778Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.778Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.780Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.780Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.780Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.781Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.781Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.782Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.783Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.783Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.784Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.784Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.785Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.785Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.787Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.788Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.795Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.795Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.797Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.799Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.799Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.800Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.800Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.800Z"}
+{"error":{"code":141,"message":"Invalid function: \"hello\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"hello\"' }","timestamp":"2017-07-27T13:05:28.801Z"}
+{"code":141,"message":"Invalid function: \"hello\"","level":"error","timestamp":"2017-07-27T13:05:28.803Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2017-07-27T18:19:23.589Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2017-07-27T18:19:23.595Z"}
